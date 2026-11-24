@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: game-coach-ai, game, coach, replay, tool, tips, gaming-tools, analysis, ai, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ai game coach replay tool tips gaming-tools analysis game-coach-ai replay-analyzer-x ai-game-coach windows portable prebuilt x64 free download
+related: ai, game, coach, replay, tool, tips, gaming-tools, analysis
